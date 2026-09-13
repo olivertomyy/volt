@@ -28,7 +28,7 @@ ALLOWED_COMPETITIONS = {
     11: "Premier Division", 15: "Super League switzerland ", 16: "Premier League",
     35: "Ligue 1", 64: "Premier League",
     71: "First Professional League",
-    82: "League 1", 83: "League 2", 93: "2nd Bundesliga",
+     83: "League 2", 93: "2nd Bundesliga",
     154: "National League",
     155: "National League South", 161: "National 1", 166: "3. Liga",
     189: "Premier League", 196: "Eredivisie",
